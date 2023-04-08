@@ -2,4 +2,9 @@
 
 ## SQL 
 
-[MSX Games in SQL](msx.sql)
+[MSX Games for MySQL](msxgames.sql)
+
+
+## JSON
+
+[MSX Games for MongoDB](msxgames.js)
